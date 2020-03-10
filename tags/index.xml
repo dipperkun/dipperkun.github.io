@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on 姜坤的博客</title>
+    <link>https://jiangkun.tech/tags/</link>
+    <description>Recent content in Tags on 姜坤的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>dipperkun@163.com (dipperkun)</managingEditor>
+    <webMaster>dipperkun@163.com (dipperkun)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 10 Mar 2020 06:00:06 +0800</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://jiangkun.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>markdown</title>
+        <link>https://jiangkun.tech/tags/markdown/</link>
+        <pubDate>Tue, 10 Mar 2020 06:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/markdown/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>emoji</title>
+        <link>https://jiangkun.tech/tags/emoji/</link>
+        <pubDate>Mon, 09 Mar 2020 07:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/emoji/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>math</title>
+        <link>https://jiangkun.tech/tags/math/</link>
+        <pubDate>Mon, 09 Mar 2020 06:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/math/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>code</title>
+        <link>https://jiangkun.tech/tags/code/</link>
+        <pubDate>Sun, 08 Mar 2020 17:30:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/code/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>highlight</title>
+        <link>https://jiangkun.tech/tags/highlight/</link>
+        <pubDate>Sun, 08 Mar 2020 17:30:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/highlight/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>shortcode</title>
+        <link>https://jiangkun.tech/tags/shortcode/</link>
+        <pubDate>Sun, 08 Mar 2020 17:00:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/shortcode/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>css</title>
+        <link>https://jiangkun.tech/tags/css/</link>
+        <pubDate>Sat, 07 Mar 2020 07:50:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/css/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>html</title>
+        <link>https://jiangkun.tech/tags/html/</link>
+        <pubDate>Sat, 07 Mar 2020 07:50:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/html/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://jiangkun.tech/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        
+        <guid>https://jiangkun.tech/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>shortcode on 姜坤的博客</title>
+    <link>https://jiangkun.tech/tags/shortcode/</link>
+    <description>Recent content in shortcode on 姜坤的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>dipperkun@163.com (dipperkun)</managingEditor>
+    <webMaster>dipperkun@163.com (dipperkun)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 08 Mar 2020 17:00:00 +0800</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://jiangkun.tech/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>https://jiangkun.tech/posts/shortcodes/</link>
+        <pubDate>Sun, 08 Mar 2020 17:00:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Sun, 08 Mar 2020 17:00:00 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/shortcodes/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different codes go cpp java javascript 1 fmt.Println(&amp;#34;Hello World!&amp;#34;); 1 std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl; 1 System.out.println(&amp;#34;Hello World!&amp;#34;); 1 console.log(&amp;#34;Hello World!&amp;#34;); &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;afd1c26e04408570\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.querySelectorAll(&#39;.codetab__link&#39;);</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

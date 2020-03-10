@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>姜坤的博客</title>
+    <link>https://jiangkun.tech/</link>
+    <description>Recent content on 姜坤的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>dipperkun@163.com (dipperkun)</managingEditor>
+    <webMaster>dipperkun@163.com (dipperkun)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://jiangkun.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Graphviz Chart Flowchart StateDiagram</title>
+        <link>https://jiangkun.tech/posts/uml/</link>
+        <pubDate>Tue, 10 Mar 2020 06:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Tue, 10 Mar 2020 06:00:06 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/uml/</guid>
+        <description>digraph G { subgraph cluster_0 { style=filled; color=lightgrey; node [style=filled,color=white]; label = &amp;quot;client&amp;quot;; csocket [label=&amp;quot;socket&amp;quot;]; csend [label=&amp;quot;send&amp;quot;]; crecv [label=&amp;quot;recv&amp;quot;]; cclose [label=&amp;quot;close&amp;quot;]; csocket -&amp;gt; connect -&amp;gt; csend -&amp;gt; crecv -&amp;gt; cclose; } subgraph cluster_1 { node [style=filled]; label = &amp;quot;server&amp;quot;; ssocket [label=&amp;quot;socket&amp;quot;]; ssend [label=&amp;quot;send&amp;quot;]; srecv [label=&amp;quot;recv&amp;quot;]; sclose [label=&amp;quot;close&amp;quot;]; ssocket -&amp;gt; bind -&amp;gt; listen -&amp;gt; accept -&amp;gt; srecv -&amp;gt; ssend -&amp;gt; sclose; color=blue } connect -&amp;gt; accept; ssend -&amp;gt; crecv; csend -&amp;gt;</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://jiangkun.tech/posts/emoji/</link>
+        <pubDate>Mon, 09 Mar 2020 07:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Mon, 09 Mar 2020 07:00:06 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/emoji/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Math Typesetting Support</title>
+        <link>https://jiangkun.tech/posts/mathjax/</link>
+        <pubDate>Mon, 09 Mar 2020 06:00:06 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Mon, 09 Mar 2020 06:00:06 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/mathjax/</guid>
+        <description>When $a \ne 0$, there are two solutions to $\(ax^2 + bx + c = 0\)\$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>math</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Syntax Highlighting</title>
+        <link>https://jiangkun.tech/posts/syntax-highlight/</link>
+        <pubDate>Sun, 08 Mar 2020 17:30:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Sun, 08 Mar 2020 17:30:00 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/syntax-highlight/</guid>
+        <description>&lt;p&gt;测试各种语言的语法高亮显示，详细信息请参考&lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Hugo documentation&lt;/a&gt;。&lt;/p&gt;</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature2/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>highlight</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Shortcodes</title>
+        <link>https://jiangkun.tech/posts/shortcodes/</link>
+        <pubDate>Sun, 08 Mar 2020 17:00:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Sun, 08 Mar 2020 17:00:00 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/shortcodes/</guid>
+        <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcode Code tabs Make it easy to switch between different codes go cpp java javascript 1 fmt.Println(&amp;#34;Hello World!&amp;#34;); 1 std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; std::endl; 1 System.out.println(&amp;#34;Hello World!&amp;#34;); 1 console.log(&amp;#34;Hello World!&amp;#34;); &#39;use strict&#39;; var containerId = JSON.parse(&#34;\&#34;afd1c26e04408570\&#34;&#34;); var containerElem = document.getElementById(containerId); var codetabLinks = null; var codetabContents = null; var ids = []; if (containerElem) { codetabLinks = containerElem.querySelectorAll(&#39;.codetab__link&#39;);</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcode</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Markdown Tutorial</title>
+        <link>https://jiangkun.tech/posts/markdown-tutorial/</link>
+        <pubDate>Sat, 07 Mar 2020 07:50:00 +0800</pubDate>
+        <author>dipperkun@163.com (dipperkun)</author>
+        <atom:modified>Sat, 07 Mar 2020 07:50:00 +0800</atom:modified>
+        <guid>https://jiangkun.tech/posts/markdown-tutorial/</guid>
+        <description>&lt;p&gt;详细介绍Markdown基本语法与示例。&lt;/p&gt;</description>
+        
+        <dc:creator>dipperkun</dc:creator>
+        <media:content url="https://jiangkun.techimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>markdown</category>
+            
+          
+            
+              <category>html</category>
+            
+          
+            
+              <category>css</category>
+            
+          
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
